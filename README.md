@@ -4,7 +4,8 @@ Oksana Bezman
 Sammamish, WA 98075
 bezmanoksana@hotmail.com
 Tel: 206-356-1932
-### _Objective_: A strong desire to learn a solid foundation for computing fundamentals with the goal to start a new career
+### _Objective_: 
+A strong desire to learn a solid foundation for computing fundamentals with the goal to start a new career
 as a professional software developer. 
 ### _Work Experience_:
 **Source of Life Publishing House**, Zaoksky, Russia, 1992-1994
