@@ -1,8 +1,8 @@
-# ksusharesume
-Oksana Bezman
-24108 SE 23rd St
-Sammamish, WA 98075
-bezmanoksana@hotmail.com
+
+Oksana Bezman..
+24108 SE 23rd St..
+Sammamish, WA 98075..
+bezmanoksana@hotmail.com..
 Tel: 206-356-1932
 ### _Objective_: 
 A strong desire to learn a solid foundation for computing fundamentals with the goal to start a new career
