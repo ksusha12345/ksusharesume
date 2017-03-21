@@ -1,4 +1,4 @@
-
+  
 _Oksana Bezman_
 
 _24108 SE 23rd St_
@@ -35,9 +35,9 @@ as a professional software developer.
 * Order books, audio, and video materials
 
 ### _ Education_:
-**_Zaoksky University_**, **Theology**, Tula region, Russia, 1994-1996
-**_Friedensau University_**, **Sociology**, Friedensau, Germany, 1996-2002
-**_ Bellevue College_**, **Associate in Atrs and Science**, Bellevue, WA, 2010-2013
+**_Zaoksky University_**, **Theology**, Tula region, Russia, 1994-1996  
+**_Friedensau University_**, **Sociology**, Friedensau, Germany, 1996-2002  
+**_ Bellevue College_**, **Associate in Atrs and Science**, Bellevue, WA, 2010-2013  
 ### _Aditional Skills_:
 * Fluent in Russian, German, and English
 * Passionate and have ability to learn new materials quickly
